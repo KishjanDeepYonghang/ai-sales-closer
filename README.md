@@ -35,3 +35,11 @@ sequenceDiagram
 ```bash
 docker-compose up --build
 ```
+
+## Connect with Me
+
+- **Portfolio:** [kishjandeepyonghang.me](https://kishjandeepyonghang.me)
+- **LinkedIn:** [Kishjan Deep Yonghang](https://www.linkedin.com/in/kishjan-yonghang-b6a324430/)
+- **Facebook:** [Kishjan Deep Yonghang](https://www.facebook.com/profile.php?id=61575446859939)
+- **WhatsApp:** [+977-9815972075](https://wa.me/9779815972075)
+- **Email:** yonghangkishjan608@gmail.com
