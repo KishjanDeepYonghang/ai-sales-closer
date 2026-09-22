@@ -27,7 +27,7 @@ sequenceDiagram
     Funnel-->>App: "Yes! Here are the specs & EMI options..."
     App->>Meta: Send Instant WhatsApp Reply
     App->>CRM: Upsert Lead & Interaction Sentiment
-
+```
 
 ## 🛠️ Tech Stack
 
